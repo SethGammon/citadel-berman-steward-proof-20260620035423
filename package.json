@@ -1,0 +1,8 @@
+{
+  "name": "citadel-berman-steward-proof",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/check.js",
+    "deploy": "node .agent-steward/fake-deploy.cjs"
+  }
+}
